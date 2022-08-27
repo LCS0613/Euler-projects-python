@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52ba4f9-db43-458b-8dd5-66911e2cdba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems &amp; Solution/Problem 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems &amp; Solution/Problem 14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="C:\Users\ychs4\OneDrive\문서\GitHub\Euler-projects-python\Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem 13">
+  <component name="RunManager" selected="Python.Problem 14">
     <configuration name="Problem 10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Euler-projects-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Euler-projects-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems &amp; Solution/Problem 9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems &amp; Solution/Problem 14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 14" />
         <item itemvalue="Python.Problem 13" />
         <item itemvalue="Python.Problem 12" />
         <item itemvalue="Python.Problem 11" />
         <item itemvalue="Python.Problem 10" />
-        <item itemvalue="Python.Problem 9" />
       </list>
     </recent_temporary>
   </component>
